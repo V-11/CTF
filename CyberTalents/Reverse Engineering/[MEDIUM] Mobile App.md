@@ -9,7 +9,7 @@ Let's check the main function
 
 ![](images/mobile-app1.png)
 
-It didn't tell us much  
+It didn't tell us much.  
 Let's check the resources for cordova files (as you can see they are imported so one of them might have the flag).  
 I spent some time going through them and I finally got it
 
