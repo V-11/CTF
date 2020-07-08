@@ -5,7 +5,7 @@
 > That's so easy. Just Capture the Flag.  
 
 I wasn't able to find any readable text after trying `strings` command.  
-Let's check if there's any compressed file.
+Let's check if there's any compressed file.  
 ![](images/message-in-a-bottle.png)  
 Sadly after extracting it I could not find anything.  
 I tried some online **steganography** tools like [Forensically](https://29a.ch/photo-forensics/#forensic-magnifier), [Steganography Online](https://stylesuxx.github.io/steganography) and [Mobilefish](https://www.mobilefish.com/services/steganography/steganography.php) but sadly again.. I found nothing.  
