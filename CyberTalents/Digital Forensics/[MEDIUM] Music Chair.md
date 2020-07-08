@@ -7,11 +7,11 @@
 
 Well, I'm not a music guru at all and for some reasons I thought the relation between the two pictures is their music genre or something like that but NO.  
 I tried to bruteforce it.. I got 900+ strings to try ha ha ha.  
-I challenged a friend to get it (as I if I got the flag already lol :D).
+I challenged a friend to get it (as if I got the flag already lol :D).  
 It took both of us a lot of time.. Let's see what we got.
 
-She was able to identify a very rare relation between two of them which is a **Hash Collision**  
+There's a very rare relation between two of them which is a **Hash Collision**.  
 ![](images/music-chair.png)
 
-I found another relation between two of them which is their **Timestamp**  
+They also have the same **Timestamp**.  
 ![](images/music-chair1.png)
