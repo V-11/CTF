@@ -58,7 +58,7 @@ Nothing seems more ***important*** than the file we already saw, we need to dump
 
 ![](images/Lab1_09.png)
 
-I tried to extract its content, but it was password protected.  
+I tried to extract its content, but it was password-protected.  
 I decided to check the readable strings to check if the password is hidden somewhere.
 
 ![](images/Lab1_10.png)
@@ -67,7 +67,7 @@ Okay, we need to dump the password hashes.. to do so, I will use the [hashdump](
 
 ![](images/Lab1_11.png)
 
-Don't forget to convert the hash characters to uppercase then use it as the password without cracking it, after doing so, you will find the last flag :D
+Don't forget to convert the hash characters to uppercase then use it as the password without cracking it, after doing so, you will find the last flag.
 
 ![](images/Lab1_12.png)
 
