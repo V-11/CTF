@@ -28,7 +28,7 @@ I noticed this base64 encoded string, decoding it got me the first flag :D
 > **flag{w3lc0m3_T0_$T4g3_!_Of_L4B_2}**
 
 --------------------------------------------
-I didn't what to look for in the `KeePass.exe` process, so I googled.  
+I didn't know what to look for in the `KeePass.exe` process, so I googled.  
 I learnt from this [article](https://www.techrepublic.com/article/how-to-manage-your-passwords-effectively-with-keepass/) that [KeePass](https://keepass.info/) stores the passwords in an encrypted database with `.kdbx` extension.. It's time for the [filescan](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference#filescan) plugin.  
 
 ![](images/Lab2_04.png)
@@ -55,7 +55,7 @@ In the recycle bin, I found a user named flag, I copied its password which was o
 
 ![](images/Lab2_09.png)
 
-> **flag{w0w_th1s_1s_Th3_SeC0nD_ST4g3_!!}
+> **flag{w0w_th1s_1s_Th3_SeC0nD_ST4g3_!!}**
 
 --------------------------------------------
 I thought of checking the browsing history in the `chrome.exe` process.  
