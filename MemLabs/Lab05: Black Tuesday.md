@@ -38,8 +38,29 @@ I used this flag as a password for the `.rar` file we already dumped and it got 
 
 ![](images/Lab5_06.png)  
 
-As you can see in the previous picture, the lab is done, but the author claimed otherwise.  
-I spent a lot of time analysing and searching for the 3rd flag but found nothing, I messaged the author but he didn't respond *yet*.  
-If any of you got the 3rd flag please hmu with a hint on twitter @0x1411
+--------------------------------------------  
+Existence of small-letters and capital-letters of the `notepad.exe` process was suspicious to me.
+
+![](images/Lab5_07.png)  
+
+The legit `notepad.exe` process should be located in `C:\Windows\System32`.
+
+![](images/Lab5_08.png)  
+
+Let's see where each of them is located, I will do it using the [filescan](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference#filescan) plugin.
+
+![](images/Lab5_09.png)  
+
+As we can see, `notepad.exe` is legit but `NOTEPAD.EXE` is not.  
+I will dump the process executable using the [procdump](https://github.com/volatilityfoundation/volatility/wiki/Command-Reference#procdump) plugin to reverse-engineer it for futher investigation.
+
+![](images/Lab5_10.png)
+
+I opened it with [IDA Pro](https://www.hex-rays.com/products/ida/), before doing anything I noticed some random hex values being pushed to the stack, converting them got me the final flag :'D
+
+![](images/Lab5_11.png)
+
+> **bi0s{M3m_l4B5_OVeR_!}**
 
 --------------------------------------------
+
