@@ -1,6 +1,7 @@
 **Beginner's Luck**
 ===================  
 [Challenge Link](https://github.com/stuxnet999/MemLabs/tree/master/Lab%201)  
+[My Video Walkthrough](https://www.youtube.com/watch?v=eFIGgxBzD6s)  
 
 > My sister's computer crashed. We were very fortunate to recover this memory dump. Your job is get all her important files from the system.  
 > From what we remember, we suddenly saw a black window pop up with something being executed.  
