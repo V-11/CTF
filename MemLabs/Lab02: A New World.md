@@ -1,6 +1,7 @@
 **A New World**
 ===================  
 [Challenge Link](https://github.com/stuxnet999/MemLabs/tree/master/Lab%202)  
+[My Video Walkthrough](https://www.youtube.com/watch?v=fAs2TD0OZMo)
 
 > One of our clients lost the access to his system due to an unknown error. He is supposedly a very popular "environmental" activist.  
 > As a part of the investigation, he told us that his go to applications are browsers, his password managers, etc.  
