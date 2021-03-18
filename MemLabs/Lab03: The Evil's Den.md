@@ -1,6 +1,7 @@
 **The Evil's Den**
 ===================  
 [Challenge Link](https://github.com/stuxnet999/MemLabs/tree/master/Lab%203)  
+[My Video Walkthrough](https://www.youtube.com/watch?v=F8sLYUutb7s)
 
 > A malicious script encrypted a secret piece of information I had on my system. Can you recover the information for me please?  
 > Note 1: This challenge is composed of only 1 flag into 2 parts, format: inctf{s0me_l33t_Str1ng}  
