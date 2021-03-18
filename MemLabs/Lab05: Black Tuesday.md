@@ -1,6 +1,7 @@
 **Black Tuesday**
 ===================  
 [Challenge Link](https://github.com/stuxnet999/MemLabs/tree/master/Lab%205)  
+[My Video Walkthrough](https://www.youtube.com/watch?v=LRis5SxeCvU)
 
 > We received this memory dump from our client recently. Someone accessed his system when he was not there and he found some rather strange files being accessed. Find those files and they might be useful.  
 > Note: There're 3 flags in this challenge, you will get the stage 2 flag only when you have the stage 1 flag.
