@@ -1,6 +1,7 @@
 **Obsession**
 ===================  
 [Challenge Link](https://github.com/stuxnet999/MemLabs/tree/master/Lab%204)  
+[My Video Walkthrough](https://www.youtube.com/watch?v=DbgJfD80Rtw)
 
 > My system was recently compromised. The Hacker stole a lot of information and he also deleted a very important file of mine.  
 > The only evidence we have at this point of time is this memory dump.. please help me.  
