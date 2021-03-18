@@ -1,6 +1,7 @@
 **The Reckoning**
 ===================  
 [Challenge Link](https://github.com/stuxnet999/MemLabs/tree/master/Lab%206)  
+[My Video Walkthrough](https://www.youtube.com/watch?v=H2oVr3yGpJg)
 
 > We received this memory dump from the Intelligence Bureau Department.  
 > They say this evidence might hold some secrets of the underworld gangster David Benjamin.  
